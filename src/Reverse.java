@@ -19,5 +19,13 @@ public class Reverse {
         System.out.println("welcome back singh");
         Reverse reverse=new Reverse();
         reverse.reverse(176908);
+
+        //
+        int num=90;
+        for(int i=2;i<(num/2)+1;i++){
+            if (num%i==0){
+                System.out.println("number is prime number"+i);
+            }
+        }
     }
 }

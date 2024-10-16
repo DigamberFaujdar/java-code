@@ -10,5 +10,4 @@ public class Sum_using_Constructor {
     {
         Sum_using_Constructor obj=new Sum_using_Constructor(0,90);
     }
-
 }
