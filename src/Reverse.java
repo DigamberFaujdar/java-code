@@ -16,7 +16,6 @@ public class Reverse {
 
     }
     public static void main(String[] args) {
-        System.out.println("welcome back singh");
         Reverse reverse=new Reverse();
         reverse.reverse(176908);
 
